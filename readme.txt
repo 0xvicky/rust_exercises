@@ -8,7 +8,7 @@ PHASE: BASIC IO & NUMBERS
 1. Print “Hello Rustacean!” ✅
 2. Read a number from stdin and print it back ✅
 3. Parse a string to integer with `parse()` ✅
-4. Add two numbers from stdin
+4. Add two numbers from stdin ✅
 5. Multiply two floats from stdin
 6. Check if a number is even or odd
 7. Generate Fibonacci up to N terms
