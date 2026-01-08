@@ -1,9 +1,3 @@
-Here’s your **readme.txt** content — copy-paste it straight into a file.
-
----
-
-**README.txt**
-
 TITLE: Rust Warm-Up Gauntlet — 50 Mini Challenges
 DESCRIPTION: A hands-on journey from “hello world” to real Rust fundamentals.
 RULE: Type every line yourself. Avoid cloning unless absolutely forced.
@@ -107,9 +101,3 @@ NEXT STEPS AFTER 50
 • Networking + sockets
 • Substrate or Solana smart contract projects
 
-–––––––––––––––––––––––––––
-END OF FILE
-Welcome to Rust — the compiler has teeth, but it also gives superpowers.
-------------------------------------------------------------------------
-
-When you’re ready, you pick a starting batch and we sharpen your saw further.
