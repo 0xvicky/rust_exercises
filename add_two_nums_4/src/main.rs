@@ -66,4 +66,5 @@ fn main() {
 
 /*
 • Reject invalid input and print which value failed ✅
+* Add multiplication feature
 */
